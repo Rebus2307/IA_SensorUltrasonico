@@ -1,61 +1,32 @@
-Distancia_cm,Zona,Riesgo
-19.35,Nezahualcoyotl,Bajo
-13.21,Nezahualcoyotl,Medio
-9.03,Nezahualcoyotl,Medio
-21.96,Nezahualcoyotl,Bajo
-21.73,Nezahualcoyotl,Bajo
-10.77,Nezahualcoyotl,Medio
-12.96,Nezahualcoyotl,Medio
-14.25,Nezahualcoyotl,Bajo
-17.41,Nezahualcoyotl,Bajo
-5.36,Nezahualcoyotl,Alto
-5.61,Nezahualcoyotl,Alto
-11.72,Nezahualcoyotl,Medio
-14.19,Nezahualcoyotl,Bajo
-8.57,Nezahualcoyotl,Medio
-23.15,Nezahualcoyotl,Bajo
-12.96,Nezahualcoyotl,Medio
-17.76,Nezahualcoyotl,Bajo
-8.94,Nezahualcoyotl,Medio
-18.06,Nezahualcoyotl,Bajo
-18.91,Nezahualcoyotl,Bajo
-19.06,Nezahualcoyotl,Bajo
-17.32,Nezahualcoyotl,Bajo
-19.44,Nezahualcoyotl,Bajo
-6.36,Nezahualcoyotl,Medio
-13.31,Nezahualcoyotl,Medio
-21.74,Nezahualcoyotl,Bajo
-15.65,Nezahualcoyotl,Bajo
-15.18,Nezahualcoyotl,Bajo
-13.94,Nezahualcoyotl,Medio
-7.63,Nezahualcoyotl,Medio
-14.86,Nezahualcoyotl,Bajo
-7.4,Nezahualcoyotl,Medio
-5.14,Nezahualcoyotl,Alto
-19.12,Nezahualcoyotl,Bajo
-23.55,Nezahualcoyotl,Bajo
-17.24,Nezahualcoyotl,Bajo
-20.91,Nezahualcoyotl,Bajo
-16.67,Nezahualcoyotl,Bajo
-9.97,Nezahualcoyotl,Medio
-6.44,Nezahualcoyotl,Medio
-23.65,Nezahualcoyotl,Bajo
-9.9,Nezahualcoyotl,Medio
-6.88,Nezahualcoyotl,Medio
-5.17,Nezahualcoyotl,Alto
-15.58,Nezahualcoyotl,Bajo
-8.59,Nezahualcoyotl,Medio
-20.08,Nezahualcoyotl,Bajo
-12.62,Nezahualcoyotl,Medio
-9.74,Nezahualcoyotl,Medio
-11.15,Nezahualcoyotl,Medio
-15.3,Nezahualcoyotl,Bajo
-14.51,Nezahualcoyotl,Bajo
-20.4,Nezahualcoyotl,Bajo
-12.97,Nezahualcoyotl,Medio
-14.58,Nezahualcoyotl,Bajo
-9.2,Nezahualcoyotl,Medio
-11.94,Nezahualcoyotl,Medio
-22.59,Nezahualcoyotl,Bajo
-10.38,Nezahualcoyotl,Medio
-21.08,Nezahualcoyotl,Bajo
+distancia_cm,Zona,Riesgo
+20.0,Nezahualcoyotl,Fuera de peligro
+19.9,Nezahualcoyotl,Riesgo Muy Bajo
+19.8,Nezahualcoyotl,Riesgo Muy Bajo
+19.7,Nezahualcoyotl,Riesgo Muy Bajo
+19.6,Nezahualcoyotl,Riesgo Muy Bajo
+19.5,Nezahualcoyotl,Riesgo Muy Bajo
+19.4,Nezahualcoyotl,Riesgo Muy Bajo
+19.3,Nezahualcoyotl,Riesgo Muy Bajo
+19.2,Nezahualcoyotl,Riesgo Bajo (Advertencia)
+19.1,Nezahualcoyotl,Riesgo Bajo (Advertencia)
+19.0,Nezahualcoyotl,Riesgo Bajo (Advertencia)
+18.9,Nezahualcoyotl,Riesgo Bajo (Advertencia)
+18.8,Nezahualcoyotl,Riesgo Bajo (Advertencia)
+18.7,Nezahualcoyotl,Riesgo Bajo (Advertencia)
+18.6,Nezahualcoyotl,Riesgo Medio
+18.5,Nezahualcoyotl,Riesgo Medio
+18.4,Nezahualcoyotl,Riesgo Medio
+18.3,Nezahualcoyotl,Riesgo Alto
+18.2,Nezahualcoyotl,Riesgo Alto
+18.1,Nezahualcoyotl,Riesgo Alto
+18.0,Nezahualcoyotl,Zona Inundada
+17.9,Nezahualcoyotl,Zona Inundada
+17.8,Nezahualcoyotl,Zona Inundada
+17.7,Nezahualcoyotl,Zona Inundada
+17.6,Nezahualcoyotl,Zona Inundada
+17.5,Nezahualcoyotl,Zona Inundada
+17.4,Nezahualcoyotl,Zona Inundada
+17.3,Nezahualcoyotl,Zona Inundada
+17.2,Nezahualcoyotl,Zona Inundada
+17.1,Nezahualcoyotl,Zona Inundada
+17.0,Nezahualcoyotl,Zona Inundada
